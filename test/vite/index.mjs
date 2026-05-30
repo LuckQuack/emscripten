@@ -1,3 +1,8 @@
+import { inject } from '@vercel/analytics';
+
+// Initialize Vercel Analytics
+inject();
+
 var params = {
   print: (function() {
     var element = document.getElementById('output');
