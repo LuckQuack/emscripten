@@ -17,6 +17,7 @@
     "ws": "^8.21.0"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "acorn": "^8.16.0",
     "acorn-import-phases": "^1.0.4",
     "google-closure-compiler": "20260527.0.0",
